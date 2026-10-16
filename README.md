@@ -7,7 +7,7 @@ App [Next.js](https://nextjs.org) minimale (App Router) con una sola pagina che 
 ```
 app/
   layout.js   # layout radice (html/body + metadata)
-  page.js     # pagina "/" che mostra "Hello World"
+  page.js     # pagina "/": "Hello World" + pulsanti "Muovi" e "Reset"
 next.config.mjs
 package.json
 ```
